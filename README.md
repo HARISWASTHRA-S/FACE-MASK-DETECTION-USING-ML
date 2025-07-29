@@ -4,19 +4,19 @@ The Face Mask Detection System is a deep learning and computer vision-based solu
 ----
 
 # TECHNOLOGY USED
-Python – Core programming language
-OpenCV – Face detection using Haar Cascade
-TensorFlow / Keras – Deep learning and model handling
-MobileNetV2 – Pre-trained CNN model for mask classification
-NumPy – Image array processing
-Webcam / CV2.VideoCapture – Real-time image capture
+1. Python – Core programming language
+2. OpenCV – Face detection using Haar Cascade
+3. TensorFlow / Keras – Deep learning and model handling
+4. MobileNetV2 – Pre-trained CNN model for mask classification
+5. NumPy – Image array processing
+6. Webcam / CV2.VideoCapture – Real-time image capture
 
 ----
 
 # FEATURES
-Real-time face and mask detection
-Accurate classification as "With Mask" or "Without Mask"
-Bounding boxes with labels and confidence scores
-Image capture on Enter key press
-Lightweight and fast, suitable for edge deployment
-Optional training support with custom datasets
+1. Real-time face and mask detection
+2. Accurate classification as "With Mask" or "Without Mask"
+3. Bounding boxes with labels and confidence scores
+4. Image capture on Enter key press
+5. Lightweight and fast, suitable for edge deployment
+   
